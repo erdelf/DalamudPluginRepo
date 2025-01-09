@@ -13,7 +13,7 @@
       "DownloadLinkUpdate": "https://raw.githubusercontent.com/erdelf/DalamudPluginRepo/main/AutoDuty/AutoDuty.zip",
       "AssemblyVersion": "0.0.0.185",
       "ApplicableVersion": "any",
-      "DalamudApiLevel": "10",
+      "DalamudApiLevel": "11",
       "Changelog": "",
       "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
       "ImageUrls": [
